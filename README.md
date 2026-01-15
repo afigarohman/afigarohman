@@ -16,17 +16,26 @@
 
 #### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,flutter,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,next,flutter,bootstrap" />
 </p>
+
 
 #### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,blade" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,cpp,nodejs" />
 </p>
 
-#### 🗄️ Database & Tools
+
+
+#### 🗄️ Database 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,ngrok" />
 </p>
 
 ---
