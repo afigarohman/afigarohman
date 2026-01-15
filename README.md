@@ -44,16 +44,16 @@
 
 ### 📊 Statistics Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RizkyYuliAndreanto&theme=github_dark" alt="GitHub Stats" width="350"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RizkyYuliAndreanto&theme=github_dark&utcOffset=7" alt="Productive Time" width="350"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afigarohman&theme=github_dark" alt="GitHub Stats" width="350"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Afigarohman&theme=github_dark&utcOffset=7" alt="Productive Time" width="350"/>
 </p>
 
 
 
 ### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RizkyYuliAndreanto&theme=github_dark" alt="Repos Per Language" width="350"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RizkyYuliAndreanto&theme=github_dark" alt="Most Commit Language" width="350"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afigarohman&theme=github_dark" alt="Repos Per Language" width="350"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afigarohman&theme=github_dark" alt="Most Commit Language" width="350"/>
 </p>
 ---
 
