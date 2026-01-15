@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student  
-- 💻 Focused on **Frontend & Web Development**
-- 🌱 Currently improving **modern frontend architecture & UI/UX**
-- ⚡ Love building **clean, responsive, and scalable web apps**
-- 📫 Reach me via **LinkedIn or Instagram**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;Web+Developer;UI+Focused+Engineer;Clean+Code+Enthusiast&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</p>
+
 
 ---
 
