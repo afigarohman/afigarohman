@@ -40,7 +40,7 @@
 <div align="center">
   
 ### 📈 GitHub Profile Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkyYuliAndreanto&theme=github_dark" alt="GitHub Profile Summary" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afigarohman&theme=github_dark" alt="GitHub Profile Summary" width="100%"/>
 
 ### 📊 Statistics Overview
 <p align="center">
