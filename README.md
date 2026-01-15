@@ -47,13 +47,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afigarohman&theme=darkhub&no-frame=true&row=1" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/afiga-rohman-40aaa1330/" target="_blank">
