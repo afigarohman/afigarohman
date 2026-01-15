@@ -30,7 +30,7 @@
 
 #### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postgree" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postgres" />
 </p>
 
 ---
