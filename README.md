@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h1 align="center">👨‍💻 About Me </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;Web+Developer;UI+Focused+Engineer;Clean+Code+Enthusiast&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1000" alt="Typing SVG">
@@ -16,21 +16,21 @@
 
 ---
 
-### 🚀 Tech Stack
+<h1 align="center">🚀 Tech Stack</h1>
 
 #### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,flutter,bootstrap" />
 </p>
 
 #### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,blade" />
 </p>
 
 #### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postgree" />
 </p>
 
 ---
