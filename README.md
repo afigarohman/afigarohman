@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afiga Rohman</h1>
 <h3 align="center">Frontend Web Developer | Web Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afigarohman&label=Profile%20views&color=0e75b6&style=flat" alt="afigarohman" />
-</p>
-
 ---
 
 <h1 align="center">👨‍💻 About Me </h1>
